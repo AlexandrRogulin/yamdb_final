@@ -79,4 +79,6 @@ pytest
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 [MIT License](https://mit-license.org/)
 
-Проект доступен по следующей ссылке <http://rogulin.tk/>
+An example of a working api can be viewed at: 
+http://84.201.176.219/redoc
+http://84.201.176.219/admin
