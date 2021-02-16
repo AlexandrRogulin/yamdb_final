@@ -81,4 +81,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 An example of a working api can be viewed at: 
 http://84.201.176.219/redoc
+
 http://84.201.176.219/admin
